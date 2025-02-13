@@ -1,0 +1,40 @@
+Dimensions fracturées où les lois de la gravité sont brisées
+5
+Zephyryst
+2 6 1 3
+Eldritchorn
+3 4 2 5
+Quasarix
+1 4 1 4
+Vipernox
+3 4 2 5
+Morgrul
+3 4 2 5
+3
+Pyronyx
+1 4 1 4
+Nocturnis
+2 6 1 3
+Eclipsion
+2 6 1 3
+Laboratoire rempli de cuves de monstres en suspension
+4
+Illusorium
+1 4 1 4
+Vespertilian
+2 6 1 3
+Lunarisque
+3 4 2 5
+Draconis
+1 4 1 4
+5
+Cyclonix
+1 4 1 4
+Pyroclast
+3 4 2 5
+Blazefrost
+1 4 1 4
+Eclipsar
+1 4 1 4
+Obsidianix
+2 6 1 3

@@ -1,0 +1,252 @@
+Tempête de sable masquant un ancien colisée enterré
+10 
+Astaroth
+1 4 1 4
+Zephyrion
+2 6 1 3
+Morgrul
+3 4 2 5
+Nixtris
+1 4 1 4
+Phantasmagor
+2 6 1 3
+Xylophrax
+3 4 2 5
+Zalthor
+1 4 1 4
+Draconis
+2 6 1 3
+Elyndor
+3 4 2 5
+Igniferous
+1 4 1 4
+2
+Vespertilian
+2 6 1 3
+Nycthora
+3 4 2 5
+Plateau rocheux marqué de gravures anciennes
+7
+Venompaw
+1 4 1 4
+Glimmergeist
+2 6 1 3
+Quasaroth
+3 4 2 5
+Aetherion
+1 4 1 4
+Cimmerian
+2 6 1 3
+Umbraclaw
+3 4 2 5
+Nyxalis
+1 4 1 4
+5
+Quillspire
+2 6 1 3
+Ombrecor
+3 4 2 5
+Vortexal
+1 4 1 4
+Serpenthral
+2 6 1 3
+Zephyrix
+3 4 2 5
+Ville néon cyberpunk surplombée de drones
+3 
+Nocturnis
+1 4 1 4
+Frostfang
+2 6 1 3
+Shadowlurk
+3 4 2 5
+3 
+Phobosurge
+1 4 1 4
+Celestrix
+2 6 1 3
+Obsidianix
+1 4 1 4
+Ruines d'une cité médiévale encerclée de murailles
+6 
+Typhoonix
+2 6 1 3
+Luminesca
+3 4 2 5
+Phobosurge
+1 4 1 4
+Celestrix
+2 6 1 3
+Arcanix
+3 4 2 5
+Eclipsion
+1 4 1 4
+5
+Gravitor
+2 6 1 3
+Sylphira
+3 4 2 5
+Nebulonix
+1 4 1 4
+Azurion
+2 6 1 3
+Baneclaw
+3 4 2 5
+Cavernes étroites avec des stalactites menaçantes
+6
+Eldritchorn
+1 4 1 4
+Infernion
+2 6 1 3
+Chronoglyph
+3 4 2 5
+Zephyryst
+1 4 1 4
+Umbravox
+2 6 1 3
+Stormbringer
+3 4 2 5
+2
+Astralis
+1 4 1 4
+Wyrmshadow
+2 6 1 3
+Cascades entourées de bassins et de brumes épaisses
+10
+Ebonwrath
+3 4 2 5
+Glacius
+1 4 1 4
+Illusorium
+2 6 1 3
+Venommyst
+3 4 2 5
+Etherealisk
+1 4 1 4
+Lunarisque
+2 6 1 3
+Pyroclast
+3 4 2 5
+Thundervolt
+1 4 1 4
+Gloomspire
+2 6 1 3
+Valeforix
+3 4 2 5
+3
+Solarian
+1 4 1 4
+Phantasmaw
+2 6 1 3
+Nocturnix
+3 4 2 5
+Ascenseur interdimensionnel en chute libre
+7
+Abyssalisk
+1 4 1 4
+Pyronyx
+2 6 1 3
+Sylvarian
+3 4 2 5
+Geiststorm
+1 4 1 4
+Valorthorn
+2 6 1 3
+Frostflame
+3 4 2 5
+Tenebrion
+1 4 1 4
+4
+Voidshaper
+2 6 1 3
+Cynosurge
+3 4 2 5
+Aquilonix
+1 4 1 4
+Nebulith
+2 6 1 3
+Cimetière de vaisseaux spatiaux sous un ciel noir
+6
+Luminara
+3 4 2 5
+Nethermaw
+1 4 1 4
+Cyclonix
+2 6 1 3
+Dracolithe
+3 4 2 5
+Duskwraith
+1 4 1 4
+Blazefrost
+2 6 1 3
+5
+Voltarisque
+3 4 2 5
+Cryptshade
+1 4 1 4
+Seraphyx
+2 6 1 3
+Thundrakon
+3 4 2 5
+Frostbite
+1 4 1 4
+Cathédrale en ruine avec des vitraux brisés
+8
+Vipernox
+2 6 1 3
+Nightshade
+3 4 2 5
+Astralisk
+1 4 1 4
+Emberix
+2 6 1 3
+Frostquill
+3 4 2 5
+Spectravox
+1 4 1 4
+Quasarix
+2 6 1 3
+Venomblade
+3 4 2 5
+4
+Lunarisque
+1 4 1 4
+Infernalis
+2 6 1 3
+Zephyreon
+3 4 2 5
+Shadowraith
+1 4 1 4
+Fosse titanesque vestige d'un ancien combat
+9
+Astaroth
+1 4 1 4
+Zephyrion
+2 6 1 3
+Morgrul
+3 4 2 5
+Nixtris
+1 4 1 4
+Phantasmagor
+2 6 1 3
+Xylophrax
+3 4 2 5
+Zalthor
+1 4 1 4
+Draconis
+2 6 1 3
+Elyndor
+3 4 2 5
+6
+Draconyx
+2 6 1 3
+Valefire
+3 4 2 5
+Astralisk
+1 4 1 4
+Eclipsar
+2 6 1 3
+Nocturnix
+3 4 2 5
+Verdantix
+1 4 1 4

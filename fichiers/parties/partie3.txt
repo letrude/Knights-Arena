@@ -1,0 +1,236 @@
+Tempête de sable masquant un ancien colisée enterré
+9
+Igniferous
+1 4 1 4
+Vespertilian
+2 6 1 3
+Nycthora
+3 4 2 5
+Venompaw
+1 4 1 4
+Glimmergeist
+2 6 1 3
+Quasaroth
+3 4 2 5
+Aetherion
+1 4 1 4
+Cimmerian
+2 6 1 3
+Umbraclaw
+3 4 2 5
+5
+Nyxalis
+1 4 1 4
+Quillspire
+2 6 1 3
+Ombrecor
+3 4 2 5
+Vortexal
+1 4 1 4
+Serpenthral
+2 6 1 3
+Ancienne mine abandonnée dans un désert de sel
+6
+Zephyrix
+3 4 2 5
+Nocturnis
+1 4 1 4
+Frostfang
+2 6 1 3
+Shadowlurk
+3 4 2 5
+Obsidianix
+1 4 1 4
+Typhoonix
+2 6 1 3
+2
+Luminesca
+3 4 2 5
+Phobosurge
+1 4 1 4
+Centrale énergétique aux étincelles et explosions fréquentes
+9
+Celestrix
+2 6 1 3
+Arcanix
+3 4 2 5
+Eclipsion
+1 4 1 4
+Gravitor
+2 6 1 3
+Sylphira
+3 4 2 5
+Nebulonix
+1 4 1 4
+Azurion
+2 6 1 3
+Baneclaw
+3 4 2 5
+Eldritchorn
+1 4 1 4
+6
+Infernion
+2 6 1 3
+Chronoglyph
+3 4 2 5
+Zephyryst
+1 4 1 4
+Umbravox
+2 6 1 3
+Stormbringer
+3 4 2 5
+Astralis
+1 4 1 4
+Tunnel de métro rempli de carcasses de trains
+4
+Wyrmshadow
+2 6 1 3
+Ebonwrath
+3 4 2 5
+Glacius
+1 4 1 4
+Illusorium
+2 6 1 3
+2
+Venommyst
+3 4 2 5
+Etherealisk
+1 4 1 4
+Terres craquelées avec des geysers de vapeur
+3
+Lunarisque
+2 6 1 3
+Pyroclast
+3 4 2 5
+Thundervolt
+1 4 1 4
+6
+Gloomspire
+2 6 1 3
+Valeforix
+3 4 2 5
+Solarian
+1 4 1 4
+Phantasmaw
+2 6 1 3
+Nocturnix
+3 4 2 5
+Abyssalisk
+1 4 1 4
+Usine de production massive avec des tapis roulants géants
+10
+Pyronyx
+2 6 1 3
+Sylvarian
+3 4 2 5
+Geiststorm
+1 4 1 4
+Valorthorn
+2 6 1 3
+Frostflame
+3 4 2 5
+Tenebrion
+1 4 1 4
+Voidshaper
+2 6 1 3
+Cynosurge
+3 4 2 5
+Aquilonix
+1 4 1 4
+Nebulith
+2 6 1 3
+2
+Luminara
+3 4 2 5
+Nethermaw
+1 4 1 4
+Grotte volcanique avec rivières de lave
+4
+Cyclonix
+2 6 1 3
+Dracolithe
+3 4 2 5
+Duskwraith
+1 4 1 4
+Blazefrost
+2 6 1 3
+3
+Voltarisque
+3 4 2 5
+Cryptshade
+1 4 1 4
+Seraphyx
+2 6 1 3
+Ancienne carrière abandonnée avec des structures éboulées
+7
+Thundrakon
+3 4 2 5
+Frostbite
+1 4 1 4
+Vipernox
+2 6 1 3
+Nightshade
+3 4 2 5
+Astralisk
+1 4 1 4
+Emberix
+2 6 1 3
+Frostquill
+3 4 2 5
+3
+Astaroth
+1 4 1 4
+Xylophrax
+3 4 2 5
+Lunarisque
+1 4 1 4
+Oasis cachée entourée de falaises
+3
+Infernalis
+2 6 1 3
+Zephyreon
+3 4 2 5
+Shadowraith
+1 4 1 4
+5
+Draconyx
+2 6 1 3
+Valefire
+3 4 2 5
+Astralisk
+1 4 1 4
+Eclipsar
+2 6 1 3
+Nocturnix
+3 4 2 5
+Bibliothèque sans fin aux escaliers mouvants
+8
+Verdantix
+1 4 1 4
+Elderithon
+1 4 1 4
+Blightfang
+2 6 1 3
+Stormclaw
+3 4 2 5
+Vorgar
+1 4 1 4
+Infernim
+2 6 1 3
+Vexarion
+3 4 2 5
+Ghastroth
+1 4 1 4
+6
+Frostscale
+2 6 1 3
+Hellfire
+3 4 2 5
+Nymbus
+1 4 1 4
+Duskwraith
+2 6 1 3
+Stormshroud
+3 4 2 5
+Vortigon
+1 4 1 4

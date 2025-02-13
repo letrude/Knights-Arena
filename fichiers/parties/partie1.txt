@@ -1,0 +1,204 @@
+Grotte volcanique avec rivières de lave
+5
+Stormbringer
+1 4 1 4
+Cyclonix
+2 6 1 3
+Voidshaper
+1 4 1 4
+Arcanix
+2 6 1 3
+Morgrul
+3 4 2 5
+5
+Astaroth
+1 4 1 4
+Zephyrion
+2 6 1 3
+Morgrul
+3 4 2 5
+Nixtris
+1 4 1 4
+Phantasmagor
+2 6 1 3
+Rivage d'une plage au clair de lune
+3
+Xylophrax
+3 4 2 5
+Zalthor
+1 4 1 4
+Draconis
+2 6 1 3
+4
+Elyndor
+3 4 2 5
+Igniferous
+1 4 1 4
+Vespertilian
+2 6 1 3
+Nycthora
+3 4 2 5
+Sentier dans une forêt dense aux arbres millénaires
+7
+Venompaw
+1 4 1 4
+Glimmergeist
+2 6 1 3
+Quasaroth
+3 4 2 5
+Aetherion
+1 4 1 4
+Cimmerian
+2 6 1 3
+Umbraclaw
+3 4 2 5
+Nyxalis
+1 4 1 4
+3
+Quillspire
+2 6 1 3
+Ombrecor
+3 4 2 5
+Vortexal
+1 4 1 4
+Dunes mouvantes illuminées par une lune pourpre
+2
+Serpenthral
+2 6 1 3
+Zephyrix
+3 4 2 5
+4
+Nocturnis
+1 4 1 4
+Frostfang
+2 6 1 3
+Shadowlurk
+3 4 2 5
+Obsidianix
+1 4 1 4
+Ruines d’une cité médiévale encerclée de murailles
+6
+Typhoonix
+2 6 1 3
+Luminesca
+3 4 2 5
+Phobosurge
+1 4 1 4
+Celestrix
+2 6 1 3
+Arcanix
+3 4 2 5
+Eclipsion
+1 4 1 4
+3
+Gravitor
+2 6 1 3
+Sylphira
+3 4 2 5
+Nebulonix
+1 4 1 4
+Plateau suspendu audessus d'un vide étoilé
+5
+Azurion
+2 6 1 3
+Baneclaw
+3 4 2 5
+Eldritchorn
+1 4 1 4
+Infernion
+2 6 1 3
+Chronoglyph
+3 4 2 5
+2
+Zephyryst
+1 4 1 4
+Umbravox
+2 6 1 3
+Laboratoire rempli de cuves de monstres en suspension
+4
+Stormbringer
+3 4 2 5
+Astralis
+1 4 1 4
+Wyrmshadow
+2 6 1 3
+Ebonwrath
+3 4 2 5
+4
+Glacius
+1 4 1 4
+Illusorium
+2 6 1 3
+Venommyst
+3 4 2 5
+Etherealisk
+1 4 1 4
+Île volante encerclée de nuages orageux
+7
+Lunarisque
+2 6 1 3
+Pyroclast
+3 4 2 5
+Thundervolt
+1 4 1 4
+Gloomspire
+2 6 1 3
+Valeforix
+3 4 2 5
+Solarian
+1 4 1 4
+Phantasmaw
+2 6 1 3
+3
+Nocturnix
+3 4 2 5
+Abyssalisk
+1 4 1 4
+Pyronyx
+2 6 1 3
+Pont suspendu partiellement effondré
+4
+Sylvarian
+3 4 2 5
+Geiststorm
+1 4 1 4
+Valorthorn
+2 6 1 3
+Frostflame
+3 4 2 5
+6
+Tenebrion
+1 4 1 4
+Voidshaper
+2 6 1 3
+Cynosurge
+3 4 2 5
+Aquilonix
+1 4 1 4
+Nebulith
+2 6 1 3
+Luminara
+3 4 2 5
+Monde inversé où tout flotte à l'envers
+5
+Nethermaw
+1 4 1 4
+Cyclonix
+2 6 1 3
+Dracolithe
+3 4 2 5
+Duskwraith
+1 4 1 4
+Blazefrost
+2 6 1 3
+5
+Voltarisque
+3 4 2 5
+Cryptshade
+1 4 1 4
+Seraphyx
+2 6 1 3
+Thundrakon
+3 4 2 5
+Frostbite
+1 4 1 4
