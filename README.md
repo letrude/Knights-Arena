@@ -7,7 +7,7 @@ Le projet consistait à développer un jeu vidéo de combat entre un chevalier e
 
 ### Fichier PDF
 #### Lien vers le fichier dans le dépôt code first
-[Rapport pdf](https://codefirst.iut.uca.fr/git/gabriel.coudel-koumba/sae_1.02/src/branch/master/doc/rapport.pdf)
+[Rapport pdf](https://github.com/letrude/Knights-Arena/blob/main/doc/rapport.pdf)
 
 > Commandes à entrer dans le terminal depuis la racine du répertoire<br>
 > Il est possible de remplacer evince par le visionneur pdf de votre choix
